@@ -28,7 +28,7 @@ FELSEFI_DUSUNCELER = [
     "Çay molası, modern insanın en masum isyanıdır.",
 ]
 
-TEM BELLIK_YORUMLARI = [
+TEMBELLIK_YORUMLARI = [
     "Mükemmel seviye. Artık efsane oldun.",
     "İyi gidiyorsun ama daha tembel olabilirsin.",
     "Orta seviye tembellik. Daha çok çay içmelisin.",
